@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\KhoiNguyen\\Downloads\\Programs\\Tuan1\\WindowsFormsApp2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8771EEC6-C9CC-47E8-85BE-947B9DC6757A}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\khoinguyen\\downloads\\programs\\tuan1\\windowsformsapp2\\windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8771EEC6-C9CC-47E8-85BE-947B9DC6757A}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8771EEC6-C9CC-47E8-85BE-947B9DC6757A}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\khoinguyen\\downloads\\programs\\tuan1\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8771EEC6-C9CC-47E8-85BE-947B9DC6757A}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8771EEC6-C9CC-47E8-85BE-947B9DC6757A}|WindowsFormsApp2\\WindowsFormsApp2.csproj|c:\\users\\khoinguyen\\downloads\\programs\\tuan1\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8771EEC6-C9CC-47E8-85BE-947B9DC6757A}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KhoiNguyen\\Downloads\\Programs\\Tuan1\\WindowsFormsApp2\\WindowsFormsApp2\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form2.cs",
+              "ToolTip": "C:\\Users\\KhoiNguyen\\Downloads\\Programs\\Tuan1\\WindowsFormsApp2\\WindowsFormsApp2\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:10:56.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KhoiNguyen\\Downloads\\Programs\\Tuan1\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\KhoiNguyen\\Downloads\\Programs\\Tuan1\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:10:46.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\KhoiNguyen\\Downloads\\Programs\\Tuan1\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
